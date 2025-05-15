@@ -1,4 +1,5 @@
-# A implementation for the paper "Adaptive Multi-particle Swarm Neural Architecture Search for High-incidence Cancer Prediction"
+# AMPS-NAS
+A implementation for the paper "Adaptive Multi-particle Swarm Neural Architecture Search for High-incidence Cancer Prediction"
 # This paper has been accepted by IEEE Transactions on Artificial Intelligence. If it is useful to you, please remember to cite it.
 ```
 @article{xu2025adaptive,
