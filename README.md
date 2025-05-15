@@ -1,5 +1,14 @@
 # A implementation for the paper "Adaptive Multi-particle Swarm Neural Architecture Search for High-incidence Cancer Prediction"
-
+# This paper has been accepted by IEE Transactions on Artificial Intelligence. If it is useful to you, please remember to cite it.
+```
+@article{xu2025adaptive,
+  title={Adaptive Multi-particle Swarm Neural Architecture Search for High-incidence Cancer Prediction},
+  author={Xu, Liming and Zheng, Jie and He, Chunlin and Wang, Jing and Zheng, Bochuan and Lv, Jiancheng},
+  journal={IEEE Transactions on Artificial Intelligence},
+  year={2025},
+  publisher={IEEE}
+}
+```
 ## Citation
 ```
 @INPROCEEDINGS{FPSO,
